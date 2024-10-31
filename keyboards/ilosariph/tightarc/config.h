@@ -49,7 +49,7 @@
 // only required if not setting mouse layer elsewhere
 //#define AUTO_MOUSE_DEFAULT_LAYER 3
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
 
 #define SPLIT_TRANSACTION_IDS_KB RPC_ID_KB_CONFIG_SYNC
 
