@@ -22,6 +22,9 @@
 #define BOOTMAGIC_ROW 0
 #define BOOTMAGIC_COLUMN 0
 
+#define BOOTMAGIC_ROW_RIGHT 6
+#define BOOTMAGIC_COLUMN_RIGHT 5
+
 /* key matrix size */
 // Rows are doubled-up
 #define MATRIX_ROWS 12
